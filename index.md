@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages Test change 1
+## Welcome to GitHub Pages Test 22222
 
 You can use the [editor on GitHub](https://github.com/quangxox/test-page/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -28,6 +28,8 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+![Image](http://hanassets.nd.gov/images/product/test.png)
 
 ### Jekyll Themes
 
