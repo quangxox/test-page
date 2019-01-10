@@ -31,6 +31,8 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ![Image](http://hanassets.nd.gov/images/product/test.png)
 
+[Link](intent://example.com#Intent;scheme=http;package=com.gmozcomrunsystem.oekaki.testinapp;end)
+
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/quangxox/test-page/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
